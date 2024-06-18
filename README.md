@@ -1,5 +1,5 @@
 # My-repo
-MY website
+bsite
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,7 +21,6 @@ MY website
 		<h2>Welcome to Brayan Muchira's website!</h2>
 		<p>Hello World! Welcome to Brayan Muchira's website, enjoy!</p>
 		<img src="elephant.jpg" alt="Elephant image" width="50%">
-		<p>This website is about me, Brayan Muchira.</p>
+		<p>This web
 	</main>
-</body>
-</html>
+
